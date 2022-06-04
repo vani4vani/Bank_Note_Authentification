@@ -1,13 +1,8 @@
-Data Science Dojo <br/>
-Copyright (c) 2019 - 2020
-
----
+# Bank Note Authentication Dataset - assignment project
 
 **Level:** Advanced <br/>
 **Recommended Use:** Classification Models<br/>
 **Domain:** Banking/Finance<br/> 
-
-## Bank Note Authentication Data Set 
 
 ### Predict if a note is genuine
 
@@ -19,10 +14,6 @@ This *advanced* level data set has 1372 rows and 5 columns.
 Data were extracted from images that were taken for the evaluation of an authentication procedure for banknotes.
 Data were extracted from images that were taken from genuine and forged banknote-like specimens. For digitization, an industrial camera usually used for print inspection was used. 
 The final images have 400x 400 pixels. Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 660 dpi were gained. Wavelet Transform tool were used to extract features from images.
-
-This data set is recommended for learning and practicing your skills in **exploratory data analysis**, **data visualization**, and **classification modelling techniques**. 
-It also allows you to practice with large number of features. Feel free to explore the data set with multiple **supervised** and **unsupervised** learning techniques. The Following data dictionary gives more details on this data set:
-
 ---
 
 ### Data Dictionary 
@@ -39,9 +30,6 @@ It also allows you to practice with large number of features. Feel free to explo
 
 ### Acknowledgement
 
-This data set has been sourced from the Machine Learning Repository of University of California, Irvine [Bank Note Authentication Data Set (UC Irvine)](https://archive.ics.uci.edu/ml/datasets/banknote+authentication). 
-The UCI page mentions the following publication as the source of the data set:
+This data set has been sourced from the Machine Learning Repository of University of California, Irvine [Bank Note Authentication Data Set (UC Irvine)](https://archive.ics.uci.edu/ml/datasets/banknote+authentication) for assignment purpose for one of the interview. 
 
-*Volker Lohweg (University of Applied Sciences, Ostwestfalen-Lippe, volker.lohweg '@' hs-owl.de)* 
-*Helene DÃ¶rksen (University of Applied Sciences, Ostwestfalen-Lippe, helene.doerksen '@' hs-owl.de)*
 
